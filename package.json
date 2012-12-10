@@ -1,0 +1,13 @@
+{
+  "name": "accomap",
+  "version": "0.0.1",
+  "private": true,
+  "scripts": {
+    "start": "node start.js"
+  },
+  "dependencies": {
+    "iced-coffee-script": "*",
+    "express": "3.0.4",
+    "jade": "*"
+  }
+}

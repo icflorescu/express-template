@@ -1,0 +1,5 @@
+.*
+*.sh
+assets/
+public/js-dev/
+public/css-dev/
